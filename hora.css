@@ -22,3 +22,21 @@ header{
     color: #fff;
     text-align: center;
 }
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+div{
+    text-align: center;
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+    color: white;
+    margin-top:20px ;
+}
